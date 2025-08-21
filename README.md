@@ -1,1 +1,1 @@
-![Banner.png][sentiment.png]
+![Banner.png](sentiment.png)
